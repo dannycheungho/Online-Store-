@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "pusher/pusher-chatkit-server": "^1.1"
+    }
+}
